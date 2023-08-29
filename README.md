@@ -25,7 +25,7 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 - 🔭 Je travaille actuellement sur divers projet (Formation ; MySuite ; MyTheque)
-- 🌱 Je me forme actuellement sur windev (oui je sait mais cet techno est de part son mepris des devs rare donc recherché par les entreprise) 
+- 🌱 Je me forme actuellement sur windev (oui je sait mais cette techno est, de part son mepris des devs, rare donc recherché par les entreprise) 
 - 👯 Je cherche à collaborer sur des projet cool en dev applicatif (vb.net ; windev ; windev mobile) et web (html ; css ; php ; javascript)
 - 📫 Comment me joindre : ...
 
